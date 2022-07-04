@@ -10,3 +10,29 @@ header{
     background-color: #4ea0ff;
 }
 /* LOGO */
+
+/* TITLE */
+h1{
+    font-size: 350%;
+    margin: 0;
+}
+
+.grey{
+    color: #adadad;
+}
+
+#title{
+    font-family: serif;
+    margin-bottom: 2%;
+}
+
+.large{
+    font-size: large;
+}
+/* /TITLE */
+
+/* PICTURES */
+.small{
+    font-size: small;
+}
+/* /PICTURES */
