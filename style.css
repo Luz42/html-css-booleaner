@@ -36,3 +36,27 @@ h1{
     font-size: small;
 }
 /* /PICTURES */
+
+/* TEXT */
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.bg-lightblue{
+    background-color: lightblue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.middle{
+    width: 50%;
+}
+/* /TEXT */
