@@ -1,0 +1,91 @@
+/* LOGO */
+#boolean_logo{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+header{
+    width: 100%;
+    background-image: url(img/pattern.png);
+    background-size: 21%;
+    background-color: #4ea0ff;
+}
+/* LOGO */
+
+/* TITLE */
+h1{
+    font-size: 350%;
+    margin: 0;
+}
+
+.grey{
+    color: #adadad;
+}
+
+#title{
+    font-family: serif;
+    margin-bottom: 2%;
+}
+
+.large{
+    font-size: large;
+}
+/* /TITLE */
+
+/* PICTURES */
+.small{
+    font-size: small;
+}
+/* /PICTURES */
+
+/* TEXT */
+.bg-yellow{
+    background-color: yellow;
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.bg-lightblue{
+    background-color: lightblue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.middle{
+    width: 50%;
+}
+/* /TEXT */
+
+/* ATTACHMENTS */
+#attachments{
+    font-weight: bold;
+}
+
+div{
+    color: white;
+    font-size: large;
+    padding: 1%;
+}
+
+#monitor{
+    background-image: url(img/monitor.jpg);
+    width: 200px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#graph{
+    background-image: url(img/graph.jpg);
+    width: 200px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* /ATTACHMENTS */
