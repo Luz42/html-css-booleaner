@@ -14,6 +14,11 @@ header{
 /* LOGO */
 
 /* TITLE */
+main{
+    width: 50%;
+    margin: auto;
+}
+
 h1{
     font-size: 350%;
     margin: 0;
@@ -36,6 +41,9 @@ h1{
 /* PICTURES */
 .small{
     font-size: small;
+}
+.size{
+    width: 100%;
 }
 /* /PICTURES */
 
