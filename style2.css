@@ -5,18 +5,29 @@
     margin-right: 25%;
 }
 
-header{
+body{
     width: 100%;
     background-image: url(img/pattern.png);
     background-size: 21%;
     background-color: #4ea0ff;
+    /* fissato il background */
+    background-attachment: fixed;
 }
 /* LOGO */
 
-/* TITLE */
+/* CONTENT */
 main{
     width: 50%;
+    padding-left: 1%;
+    padding-right: 1%;
     margin: auto;
+    background-color: white;
+}
+/* /CONTENT */
+
+/* TITLE */
+a{
+    text-decoration: none;
 }
 
 h1{
