@@ -1,98 +1,110 @@
 /* LOGO */
-#boolean_logo{
+#boolean_logo {
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
 }
 
-body{
+body {
     width: 100%;
-    background-image: url(img/pattern.png);
-    background-size: 21%;
-    background-color: #4ea0ff;
     /* fissato il background */
     background-attachment: fixed;
 }
+
+header {
+    background-image: url(img/pattern.png);
+    background-size: 51%;
+    background-color: #4ea0ff;
+    width: 50%;
+    margin: auto;
+
+}
+
 /* LOGO */
 
 /* CONTENT */
-main{
+main {
     width: 50%;
     padding-left: 1%;
     padding-right: 1%;
     margin: auto;
     background-color: white;
 }
+
 /* /CONTENT */
 
 /* TITLE */
-a{
+a {
     text-decoration: none;
 }
 
-h1{
+h1 {
     font-size: 350%;
     margin: 0;
 }
 
-.grey{
+.grey {
     color: #adadad;
 }
 
-#title{
+#title {
     font-family: serif;
     margin-bottom: 2%;
 }
 
-.large{
+.large {
     font-size: large;
 }
+
 /* /TITLE */
 
 /* PICTURES */
-.small{
+.small {
     font-size: small;
 }
-.size{
+
+.size {
     width: 100%;
 }
+
 /* /PICTURES */
 
 /* TEXT */
-.bg-yellow{
+.bg-yellow {
     background-color: yellow;
 }
 
-th{
+th {
     background-color: #20a9e5;
     color: white;
 }
 
-.bg-lightblue{
+.bg-lightblue {
     background-color: lightblue;
 }
 
-table{
+table {
     border-collapse: collapse;
 }
 
-.middle{
+.middle {
     width: 50%;
 }
+
 /* /TEXT */
 
 /* ATTACHMENTS */
-#attachments{
+#attachments {
     font-weight: bold;
 }
 
-div{
+div {
     color: white;
     font-size: large;
     padding: 1%;
 }
 
-#monitor{
+#monitor {
     background-image: url(img/monitor.jpg);
     width: 200px;
     height: 150px;
@@ -100,11 +112,12 @@ div{
     background-size: contain;
 }
 
-#graph{
+#graph {
     background-image: url(img/graph.jpg);
     width: 200px;
     height: 150px;
     background-repeat: no-repeat;
     background-size: contain;
 }
+
 /* /ATTACHMENTS */
