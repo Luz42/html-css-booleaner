@@ -102,6 +102,11 @@ div {
     color: white;
     font-size: large;
     padding: 1%;
+    display: inline-block;
+}
+
+#attachments>span {
+    display: block;
 }
 
 #monitor {
